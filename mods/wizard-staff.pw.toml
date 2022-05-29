@@ -1,0 +1,13 @@
+name = "Wizard Staff"
+filename = "wizardstaff-1.16.5-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db4964ffa2dc71a135e74f8ede3f82c3b5b35bdd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3502085
+project-id = 406839

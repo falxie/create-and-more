@@ -1,0 +1,12 @@
+name = "Create and More"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be99efe2e109644501676e5b5323bc1516ba1b297a63a0ad2fb01ce29e2c8ed0"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"
